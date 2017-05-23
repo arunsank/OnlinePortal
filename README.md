@@ -1,6 +1,8 @@
-# OnlinePortal
-Designing a Movie and Music online portal using XML and XSLT
-3 separate XML files of the same format have been used for easier understanding. This can also be done with a single XML file by using a front end interface. This is not in scope for this project and hence that has not been handled
+## OnlinePortal
+# Description
+Desing an online portal to check the availability of movies and albums in a system using XML and XSLT.
+3 separate XML files of the same format have been used for easier understanding. This can also be done with a single XML file by using a front end interface. This is not in scope for this project and hence that has not been handled.
+
 # XML file
 The file is a collection of nodes. Node traversal could be done to extract data
 Parent node - Store
