@@ -24,6 +24,15 @@ template3.xslt - Displays a high level view for the user to see the availability
 # stylinginfo.css
 The css files that contain the styling information
 
+# Accessible links
+Use the below links to view the above xml data
+
+http://cgi.soic.indiana.edu/~arunsank/view1.xml
+
+http://cgi.soic.indiana.edu/~arunsank/view2.xml
+
+http://cgi.soic.indiana.edu/~arunsank/view3.xml
+
 
 
 
