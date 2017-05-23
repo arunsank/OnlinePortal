@@ -1,16 +1,17 @@
-## OnlinePortal
-# Description
+# OnlinePortal
+## Description
 Desing an online portal to check the availability of movies and albums in a system using XML and XSLT.
 3 separate XML files of the same format have been used for easier understanding. This can also be done with a single XML file by using a front end interface. This is not in scope for this project and hence that has not been handled.
 
-# XML file
+# Files and their funtions
+## XML data file
 The file is a collection of nodes. Node traversal could be done to extract data
 Parent node - Store
 Sub nodes 1 - Music , Video
 Sub nodes 2 - Album , Movie
 The sub nodes have column attributes and some have type attributes
 
-# XSLT file
+## XSLT file
 The XSLT files do the stylesheet transformations
 
 template1.xslt - Used to display a high level movie and video counts. It displays movies that are not available in bolded red color
@@ -23,7 +24,7 @@ template3.xslt - Displays a high level view for the user to see the availability
 
 
 
-# stylinginfo.css
+## stylinginfo.css
 The css files that contain the styling information
 
 # Accessible links
