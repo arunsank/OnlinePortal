@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Start of xml invoke xslt -->
+<?xml-stylesheet type="text/xsl" href="template1.xslt"?>
+<store>
+	<music>
+		<album type="cd">
+			<prodID>C10001</prodID>
+			<title>Elephunk</title>
+			<artist>Black Eyed Peas</artist>
+			<label>Interscope</label>
+			<genre>Hiphop</genre>
+			<year>2003</year>
+			<price>14.95</price>
+			<quantity>4</quantity>
+		</album>
+		<album type="cd">
+			<prodID>C10002</prodID>
+			<title>Toxicity</title>
+			<artist>System of a Down</artist>
+			<label>Columbia</label>
+			<genre>Modern Rock</genre>
+			<year>2001</year>
+			<price>14.95</price>
+			<quantity>2</quantity>
+		</album>
+		<album type="cd">
+			<prodID>C10003</prodID>
+			<title>Room for Squares</title>
+			<artist>John Mayer</artist>
+			<label>Aware/Columbia</label>
+			<genre>Soft Rock</genre>
+			<year>2001</year>
+			<price>12.95</price>
+			<quantity>3</quantity>
+		</album>
+		<album type="cd">
+			<prodID>C10004</prodID>
+			<title>Room on Fire</title>
+			<artist>The Strokes</artist>
+			<label>RCA</label>
+			<genre>Rock</genre>
+			<year>2003</year>
+			<price>14.95</price>
+			<quantity>4</quantity>
+		</album>
+		<album type="cd">
+			<prodID>C10008</prodID>
+			<title>Under the Table and Dreaming</title>
+			<artist>Dave Matthews</artist>
+			<label>RCA</label>
+			<genre>Rock</genre>
+			<year>1994</year>
+			<price>13.99</price>
+			<quantity>1</quantity>
+		</album>
+		<album type="cd">
+			<prodID>C10009</prodID>
+			<title>Jagged Little Pill</title>
+			<artist>Alanis Morrissette</artist>
+			<label>Maverick</label>
+			<genre>Alternative</genre>
+			<year>1995</year>
+			<price>11.99</price>
+			<quantity>1</quantity>
+		</album>
+		<album type="vinyl">
+			<prodID>C10006</prodID>
+			<title>Ten</title>
+			<artist>Pearl Jam</artist>
+			<label>Sony</label>
+			<genre>Rock</genre>
+			<year>1991</year>
+			<price>12.99</price>
+			<quantity>1</quantity>
+		</album>
+		<album type="cassette">
+			<prodID>C10007</prodID>
+			<title>Thriller</title>
+			<artist>Michael Jackson</artist>
+			<label>Sony</label>
+			<genre>Pop</genre>
+			<year>1982</year>
+			<price>8.95</price>
+			<quantity>1</quantity>
+		</album>
+		<album type="cassette">
+			<prodID>C10005</prodID>
+			<title>Shock'n Y'all</title>
+			<artist>Toby Keith</artist>
+			<label>Dreamworks</label>
+			<genre>Country</genre>
+			<year>2003</year>
+			<price>10.95</price>
+			<quantity>0</quantity>
+		</album>
+	</music>
+	<video>
+		<movie>
+			<prodID>D90001</prodID>
+			<title>Lord of the Rings: The Two Towers</title>
+			<dvd type="widescreen" />
+			<length>2:55</length>
+			<director>Peter Jackson</director>
+			<studio>Warner Bros</studio>
+			<genre>Fantasy</genre>
+			<genre>Action/adventure</genre>
+			<year>2003</year>
+			<price>17.95</price>
+			<quantity>6</quantity>
+		</movie>
+		<movie>
+			<prodID>D90002</prodID>
+			<title>Pirates of the Caribbean: The Curse of the Black Pearl</title>
+			<dvd type="widescreen" />
+			<length>2:23</length>
+			<director>Gore Verbinski</director>
+			<studio>Buena Vista</studio>
+			<genre>Action/adventure</genre>
+			<year>2003</year>
+			<price>16.95</price>
+			<quantity>5</quantity>
+		</movie>
+		<movie>
+			<prodID>D90003</prodID>
+			<title>Spirited Away</title>
+			<dvd type="widescreen" />
+			<length>2:12</length>
+			<director>Hiyao Miyazaki</director>
+			<studio>Disney</studio>
+			<genre>Fantasy</genre>
+			<genre>Animation</genre>
+			<year>2003</year>
+			<price>18.95</price>
+			<quantity>1</quantity>
+		</movie>
+		<movie>
+			<prodID>D90004</prodID>
+			<title>Blade Runner</title>
+			<dvd type="fullscreen" />
+			<length>1:57</length>
+			<director>Ridley Scott</director>
+			<studio>Warner Brothers</studio>
+			<genre>Science Fiction</genre>
+			<genre>Thriller</genre>
+			<year>1982</year>
+			<price>13.99</price>
+			<quantity>1</quantity>
+		</movie>
+		<movie>
+			<prodID>D90005</prodID>
+			<title>The Princess Bride</title>
+			<dvd type="fullscreen" />
+			<length>1:28</length>
+			<director>Rob Reiner</director>
+			<studio>MGM</studio>
+			<genre>Fantasy</genre>
+			<genre>Romance</genre>
+			<year>1987</year>
+			<price>14.99</price>
+			<quantity>1</quantity>
+		</movie>
+		<movie>
+			<prodID>D90006</prodID>
+			<title>Casablanca</title>
+			<dvd type="fullscreen" />
+			<length>1:57</length>
+			<director>Michael Curtiz</director>
+			<studio>MGM</studio>
+			<genre>Mystery</genre>
+			<genre>Romance</genre>
+			<year>1942</year>
+			<price>18.99</price>
+			<quantity>1</quantity>
+		</movie>
+		<movie>
+			<prodID>D90007</prodID>
+			<title>Gladiator</title>
+			<dvd type="widescreen" />
+			<length>2:35</length>
+			<director>Ridley Scott</director>
+			<studio>Universal</studio>
+			<genre>Action</genre>
+			<year>2000</year>
+			<price>19.99</price>
+			<quantity>2</quantity>
+		</movie>
+		<movie>
+			<prodID>D90008</prodID>
+			<title>Aliens</title>
+			<dvd type="widescreen" />
+			<length>2:17</length>
+			<director>James Cameron</director>
+			<studio>20th Century Fox</studio>
+			<genre>Action</genre>
+			<genre>Science Fiction</genre>
+			<year>1986</year>
+			<price>17.99</price>
+			<quantity>1</quantity>
+		</movie>
+		<movie>
+			<prodID>D90009</prodID>
+			<title>The Professional</title>
+			<dvd type="widescreen" />
+			<length>1:50</length>
+			<director>Luc Besson</director>
+			<studio>Dauphin</studio>
+			<genre>Action</genre>
+			<genre>Thriller</genre>
+			<year>1994</year>
+			<price>16.99</price>
+			<quantity>0</quantity>
+		</movie>
+	</video>
+</store>
+

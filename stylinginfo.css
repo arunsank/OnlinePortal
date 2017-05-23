@@ -1,0 +1,42 @@
+/* CSS Document */
+body {
+    background-color: Grey;
+	font: 16px Calibri bold
+	
+	
+}
+
+
+.movietable	{
+			border: thin black solid;
+			}
+
+td			{
+			padding: 1px 10px;
+			}
+td.tdtitle	{
+			color: black;
+			font-weight: bold;
+			}		
+
+th			{ background-color: black;
+
+			border-bottom: thin black solid;
+			color: white;
+			}
+.total		{
+			font-weight: bold;
+			color: red;
+			border-top: thin black solid;
+			}
+div.header1	{
+			background-color: black;
+			color: white;
+			height: 40px;
+			font-size: 26;
+			}
+
+.alert		{
+			color: red;
+			font-weight: bold;
+			}
