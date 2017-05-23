@@ -3,12 +3,12 @@
 Desing an online portal to check the availability of movies and albums in a system using XML and XSLT.
 3 separate XML files of the same format have been used for easier understanding. This can also be done with a single XML file by using a front end interface. This is not in scope for this project and hence that has not been handled.
 
-# Files and their funtions
+# Files and their functions
 ## XML data file
-The file is a collection of nodes. Node traversal could be done to extract data
-Parent node - Store
-Sub nodes 1 - Music , Video
-Sub nodes 2 - Album , Movie
+The file is a collection of nodes. Node traversal could be done to extract data <br />
+Parent node - Store <br />
+Sub nodes 1 - Music , Video <br />
+Sub nodes 2 - Album , Movie <br />
 The sub nodes have column attributes and some have type attributes
 
 ## XSLT file
